@@ -1,0 +1,799 @@
+fileFormatVersion: 2
+guid: e09ac5fb04f2a254ab29deef7469070f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8494718471314712133
+    second: uist sprite sheet but idk_0
+  - first:
+      213: 5847459162267582097
+    second: uist sprite sheet but idk_1
+  - first:
+      213: 7442509044861252221
+    second: uist sprite sheet but idk_2
+  - first:
+      213: 722390022444235742
+    second: uist sprite sheet but idk_3
+  - first:
+      213: -6823572498891290839
+    second: uist sprite sheet but idk_4
+  - first:
+      213: 7465246591442938651
+    second: uist sprite sheet but idk_5
+  - first:
+      213: -7166999324213603039
+    second: uist sprite sheet but idk_6
+  - first:
+      213: -2128516262452798324
+    second: uist sprite sheet but idk_7
+  - first:
+      213: -6160150384714831806
+    second: uist sprite sheet but idk_8
+  - first:
+      213: 3223203955314755844
+    second: uist sprite sheet but idk_9
+  - first:
+      213: 5859814433584692765
+    second: uist sprite sheet but idk_10
+  - first:
+      213: -3941266676655910023
+    second: uist sprite sheet but idk_11
+  - first:
+      213: 8537377888651714030
+    second: uist sprite sheet but idk_12
+  - first:
+      213: -4296275333799360073
+    second: uist sprite sheet but idk_13
+  - first:
+      213: 2642949934303133306
+    second: uist sprite sheet but idk_14
+  - first:
+      213: -7981947549731643698
+    second: uist sprite sheet but idk_15
+  - first:
+      213: 5993870118850596345
+    second: uist sprite sheet but idk_16
+  - first:
+      213: -3601857043115346936
+    second: uist sprite sheet but idk_17
+  - first:
+      213: 6466490059381947958
+    second: uist sprite sheet but idk_18
+  - first:
+      213: 495122170312427296
+    second: uist sprite sheet but idk_19
+  - first:
+      213: -8396653486112469680
+    second: uist sprite sheet but idk_20
+  - first:
+      213: 4840314165526818605
+    second: uist sprite sheet but idk_21
+  - first:
+      213: 2347507506252314103
+    second: uist sprite sheet but idk_22
+  - first:
+      213: -4257016090818827034
+    second: uist sprite sheet but idk_23
+  - first:
+      213: -1257246196170798230
+    second: uist sprite sheet but idk_24
+  - first:
+      213: -3370116924518728449
+    second: uist sprite sheet but idk_25
+  - first:
+      213: 1451245006238601361
+    second: uist sprite sheet but idk_26
+  - first:
+      213: 1504892838738270547
+    second: uist sprite sheet but idk_27
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7189fccf2927ff4fae586ebc723dc17
+      internalID: -8494718471314712133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 342
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfe6407548af364eab43c6a2a21ed49
+      internalID: 5847459162267582097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_2
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 342
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e70239a48d3b2c4fbc35c89fda21e21
+      internalID: 7442509044861252221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7620e43600d2cc429e97f7ea4c3aa0b
+      internalID: 722390022444235742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 304
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98bb5ee603e8d4546a5540998d91258d
+      internalID: -6823572498891290839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_5
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 304
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b25b854a73fb7f4e9dda8005c9f3600
+      internalID: 7465246591442938651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8534ed7fff4f74a833b018e1b6837f
+      internalID: -7166999324213603039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 266
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642584cda0a77e145b7e1d73fa1126ed
+      internalID: -2128516262452798324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_8
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 266
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7259dce2bfcee6445ad06a18bafc0969
+      internalID: -6160150384714831806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 228
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b5be47653713649b799f022e4bfc0f
+      internalID: 3223203955314755844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_10
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 228
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 839e9122a7a6e174eb117c956f215b85
+      internalID: 5859814433584692765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 228
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d297552666870b4e8d21d4d1de6d8c4
+      internalID: -3941266676655910023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3083bbe49ee3d499307ab6a27ed2c7
+      internalID: 8537377888651714030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 190
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ce6e708ff6f1a4e92317975475f84f
+      internalID: -4296275333799360073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 190
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb01b5a56fc6ec1458434503f4c43473
+      internalID: 2642949934303133306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a68e0e9ce7670409e4b174d37c598f
+      internalID: -7981947549731643698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 152
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502cf31a25cd9c74d8e0b232c6c28806
+      internalID: 5993870118850596345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 152
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bc15482bcaecd4fb13fd5f5e787e62
+      internalID: -3601857043115346936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c659fe0bde39df34dbb50c81535bd77c
+      internalID: 6466490059381947958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 114
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b53d56a4d19f804fa8ce5d9a2265888
+      internalID: 495122170312427296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_20
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 114
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ebaa4fa51f95043bb05f0e3aba3dcb
+      internalID: -8396653486112469680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7add2e460af20408e00b4997012ac0
+      internalID: 4840314165526818605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_22
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 76
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69eb52df5f42974ba26852d23019fda
+      internalID: 2347507506252314103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 76
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e93c010da226f499c930f6aef505f4
+      internalID: -4257016090818827034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2929aecbe17cc84bbb69611178837e6
+      internalID: -1257246196170798230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 38
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4333b517409a1741990e170cdaf1262
+      internalID: -3370116924518728449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 38
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557d311889bb13e4b9e5240f029062e8
+      internalID: 1451245006238601361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: uist sprite sheet but idk_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 19
+        height: 38
+      alignment: 9
+      pivot: {x: 0.4736842, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82651aa03638454e8a0e616cf6ea89a
+      internalID: 1504892838738270547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

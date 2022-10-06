@@ -1,0 +1,607 @@
+fileFormatVersion: 2
+guid: b911fb065386a004b9b911d5632f9dc7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3352653409900237420
+    second: wist spritesheet_0
+  - first:
+      213: 395465288711658776
+    second: wist spritesheet_1
+  - first:
+      213: 4307074981513690661
+    second: wist spritesheet_2
+  - first:
+      213: 3358470711888908839
+    second: wist spritesheet_3
+  - first:
+      213: 6588916608696080726
+    second: wist spritesheet_4
+  - first:
+      213: 7797137493077351770
+    second: wist spritesheet_5
+  - first:
+      213: 8362156078626905571
+    second: wist spritesheet_6
+  - first:
+      213: 7766017739292586856
+    second: wist spritesheet_7
+  - first:
+      213: 8025106778229668467
+    second: wist spritesheet_8
+  - first:
+      213: 1574717726469333058
+    second: wist spritesheet_9
+  - first:
+      213: -2394998360876899223
+    second: wist spritesheet_10
+  - first:
+      213: 4151049063090162972
+    second: wist spritesheet_11
+  - first:
+      213: 3783952561945767064
+    second: wist spritesheet_12
+  - first:
+      213: 6988782720040887957
+    second: wist spritesheet_13
+  - first:
+      213: 8803015369465851090
+    second: wist spritesheet_14
+  - first:
+      213: -4232523674109726718
+    second: wist spritesheet_15
+  - first:
+      213: -4719663757932697133
+    second: wist spritesheet_16
+  - first:
+      213: -2304161388519450227
+    second: wist spritesheet_17
+  - first:
+      213: -4383020563420868810
+    second: wist spritesheet_18
+  - first:
+      213: 6669831158660466241
+    second: wist spritesheet_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wist spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.1428571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1274cc28db94274298726560063fb7a
+      internalID: 3352653409900237420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wist spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 56
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.1428571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98606b8cff329b747adf3af5586d0915
+      internalID: 395465288711658776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wist spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 56
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.1428571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6743027d62834414b952d734237ec8ac
+      internalID: 4307074981513690661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wist spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 56
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.1428571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9a5cf6061689643b73d6d79b038493
+      internalID: 3358470711888908839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wist spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 56
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.1428571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0527da5d41d804baaa1b3675bee556
+      internalID: 6588916608696080726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wist spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 56
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.1428571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f923be2e38b8ec54aa64c6771f17d49c
+      internalID: 7797137493077351770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wist spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 56
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.1428571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2219d49f1be6e1439f83dd4b74c4e75
+      internalID: 8362156078626905571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wist spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.1428571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660821f30040b0246bd18f743939d714
+      internalID: 7766017739292586856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wist spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 28
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.1428571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9987475b2a614414ab1a3168b6af20a6
+      internalID: 8025106778229668467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wist spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 28
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.1428571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e4e0ba01f7dda4397830d58af3dde6
+      internalID: 1574717726469333058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wist spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 28
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.1428571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3861bd32d965074e8b8c47a03c2a451
+      internalID: -2394998360876899223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wist spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 28
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.1428571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2b8ef615d12e24cbcfc6349188ca73
+      internalID: 4151049063090162972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wist spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 28
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.1428571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48837ecdca138944a848b5460acf641
+      internalID: 3783952561945767064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wist spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 28
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.1428571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c60e004c484f9541aeac086a721f68d
+      internalID: 6988782720040887957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wist spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.1428571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c5134572d5bc44ea199d633ec12ce8
+      internalID: 8803015369465851090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wist spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.1428571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c654d192bf82742b7b6b662c7e84c9
+      internalID: -4232523674109726718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wist spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.1428571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347de8553ad4c1f4599a6cb64fea378c
+      internalID: -4719663757932697133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wist spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.1428571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e194d44d989414b8f88045f93833cd
+      internalID: -2304161388519450227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wist spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.1428571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504ce601dc68b8a4bb0d011555944d6d
+      internalID: -4383020563420868810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: wist spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 17
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5294118, y: 0.1428571}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e260f7a3e2ea4684cb7853ba01cd373a
+      internalID: 6669831158660466241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

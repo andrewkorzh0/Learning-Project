@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 485748713c4082f4da1561d257a170bc, type: 3}
+  m_Name: EnglishText
+  m_EditorClassIdentifier: 
+  loadButton: Load
+  languageButton: eng
+  volleyballfox_1:
+  - MEA IS FOXE
+  - WHATSAP
+  - HEHA
+  tarakunsshop_1:
+  - '...'
+  - '.....'
+  - '.......'
+  - OH
+  - GOSH
+  - PLEASE SORRY ME, I DIDN'T NOTICE YOU
+  - '*khm*'
+  - Well, what do you want?
+  tarakunsshop_2:
+  - I'm selling stuff actually
+  - what you'd wanna buy?
+  LockedDoor:
+  - ' Door is on fix'
+  LockedDoorPrank:
+  - ' Really, what are you doing?'
+  LockedDoorPrank2:
+  - 
+  - ' Are you dump?!'
+  - ' s t o p  t h i s  n o w'

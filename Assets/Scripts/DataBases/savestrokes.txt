@@ -1,0 +1,5 @@
+1 - name
+2 - gold
+3 - 8 - inventory
+9 - 002 room test load bool for blue tile
+the last - room
